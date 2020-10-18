@@ -1,1 +1,2 @@
-Create a Work environment to run this little project
+Create a Work environment to be able to run this little project
+
