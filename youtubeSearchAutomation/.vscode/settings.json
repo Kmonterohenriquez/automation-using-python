@@ -1,0 +1,6 @@
+{
+    // "python.pythonPath": "C:/Users/Kevin-Pc/AppData/Local/Programs/Python/Python38-32/python.exe",
+    "python.pythonPath": "C:\\Users\\Kevin-Pc\\Desktop\\python\\youtubeSearchAutomation\\work_env\\Scripts",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+}
